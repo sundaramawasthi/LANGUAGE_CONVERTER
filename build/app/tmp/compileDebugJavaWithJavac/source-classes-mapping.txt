@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tts/MainActivity.java
+ com.tts.MainActivity
+com/tts/BuildConfig.java
+ com.tts.BuildConfig
